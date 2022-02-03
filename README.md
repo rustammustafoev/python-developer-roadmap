@@ -10,14 +10,40 @@
 - [pythontutor.com](https://pythontutor.com/) for visualization
 ## What kind of tech stacks you need to know
 - Core Python
+  - Data Types
+  - Closure, Local, Global, and Enclose states
+  - Global Interpreter Lock
+  - Memory Management
+  - MultiThreading / MultiProcessing
+  - Decorators
+  - Iterables
+  - Iterators / Generators
+  - Context Manager Protocol
+  - OOP (Encapsulation, Abstraction, MRO, Multiple Inheritance, Dunder Methods, Class Calling Tree, and etc)
+  - Unit / Integration Tests
 - Django / Flask
+  - Django Architecture
 - SQL / NoSQL
 - Git
 - CI / CD
+  - TravisCI
+  - Jenkins
+  - GitHub Actions
+  - Sentry
+  - Linters
 - Docker
+  - Docker Compose
+  - Docker Image
+  - Docker Container
+  - Volume
 - Kubernetes
 - AWS
+  - ETC
+  - S3
 - Agile Principles
+  - Agile Manifesto
+  - 12 Principles of Agile
+  - Scrum Framework
 - SOLID / Design Principles(Creational, Behavioral, and Structural)
 - FastAPI / REST APIs
 - Problem Solving (DS/Algo)
