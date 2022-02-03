@@ -1,6 +1,6 @@
 # Python Developer Roadmap
 ## Essential Books and Websites
-``Spoiler alert most of the above materials are for a developer who has novice knowledge of Python and Data Structures``
+``Spoiler alert most of the below materials would be for a developers who has novice knowledge of Python and Data Structures``
 - Python Tricks by Dan Baden
 - Python Cookbook by David Beazley & Brian K.Jones
 - The Algorithms Design Manual by Steven S.Skiena
