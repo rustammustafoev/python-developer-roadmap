@@ -7,6 +7,7 @@
 - Grooking Algorithm by Aditya Bhargava
 - Cracking the Coding Interview by Gayle Mcdowell
 - [realpython.com](https://realpython.com/) by avid Pythonistas
+- [pythontutor.com](https://pythontutor.com/) for visualization
 ## What kind of tech stacks you need to know
 - Core Python
 - Django / Flask
