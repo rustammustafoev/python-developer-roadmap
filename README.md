@@ -1,12 +1,12 @@
 # Python Developer Roadmap
 ## Essential Books and Websites
+``Spoiler alert most of the above materials are for a developer who has novice knowledge of Python and Data Structures``
 - Python Tricks by Dan Baden
 - Python Cookbook by David Beazley & Brian K.Jones
 - The Algorithms Design Manual by Steven S.Skiena
 - Grooking Algorithm by Aditya Bhargava
 - Cracking the Coding Interview by Gayle Mcdowell
 - [realpython.com](https://realpython.com/) by avid Pythonistas
-Spoiler alert most of the above materials are for a developer who has novice knowledge of Python and Data Structures
 ## What kind of tech stacks you need to know
 - Core Python
 - Django / Flask
